@@ -1,0 +1,6 @@
+{
+  "name": "Perfect Corner",
+  "description": "A minimalist, rhythm-and-timing-based mobile game designed to be a highly engaging alternative to doomscrolling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
